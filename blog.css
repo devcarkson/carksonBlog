@@ -89,7 +89,7 @@ p {
 /* navabr ends */
 
 .site-title {
-    background: url("images/pexels-marina-leonova-9465701.jpg");
+    background: url(images/pexels-marina-leonova-9465701.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 110vh;
@@ -182,8 +182,6 @@ section .container {
 }
 
 
-/* ========================Site Content=================== */
-
 section .site-content {
     display: grid;
     grid-template-columns: 70% 30%;
@@ -259,7 +257,7 @@ section .site-content {
 }
 
 
-/* ============================SIDE BAR======================== */
+/* ======SIDE BAR========= */
 
 .list-items {
     background: darkseagreen;
